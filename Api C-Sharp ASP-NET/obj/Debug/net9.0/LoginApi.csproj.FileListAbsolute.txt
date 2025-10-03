@@ -1,0 +1,188 @@
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\appsettings.Development.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\appsettings.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.staticwebassets.runtime.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.staticwebassets.endpoints.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.exe
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.deps.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.runtimeconfig.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\LoginApi.pdb
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Azure.Core.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Dapper.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\MySqlConnector.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.csproj.AssemblyReference.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.AssemblyInfoInputs.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.AssemblyInfo.cs
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.csproj.CoreCompileInputs.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\scopedcss\bundle\LoginApi.styles.css
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\n5fz7l840i-xlfa0x7nkp.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\uvq72p6e1g-pios4a7dtp.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\e5vshfgy8q-u0qfse35vd.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\g5k9p1lspn-mnvstfro7v.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\2tzejefxdb-zf12gy8jz1.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\1aykthwp51-fqco2zg5v7.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\biz733ygzh-m12bpj6p1w.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.csproj.Up2Date
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\refint\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.pdb
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\LoginApi.genruntimeconfig.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\ref\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\o0mk490das-a1sekmh0q7.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\LoginApi\obj\Debug\net9.0\compressed\zbb5r8mcpo-kd3g790rw2.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\appsettings.Development.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\appsettings.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.staticwebassets.endpoints.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.staticwebassets.runtime.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.exe
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.deps.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.runtimeconfig.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\LoginApi.pdb
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Azure.Core.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Azure.Identity.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Dapper.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\MySqlConnector.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.ClientModel.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Memory.Data.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.csproj.AssemblyReference.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.AssemblyInfoInputs.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.AssemblyInfo.cs
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.csproj.CoreCompileInputs.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\scopedcss\bundle\LoginApi.styles.css
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\n5fz7l840i-xlfa0x7nkp.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\uvq72p6e1g-pios4a7dtp.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\e5vshfgy8q-u0qfse35vd.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\g5k9p1lspn-mnvstfro7v.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\2tzejefxdb-zf12gy8jz1.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\1aykthwp51-fqco2zg5v7.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\o0mk490das-a1sekmh0q7.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\biz733ygzh-m12bpj6p1w.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\compressed\zbb5r8mcpo-kd3g790rw2.gz
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\staticwebassets.build.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\staticwebassets.development.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.csproj.Up2Date
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\refint\LoginApi.dll
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.pdb
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\LoginApi.genruntimeconfig.cache
+D:\GUILHERME\FATEC\GitHub\Api C-Sharp ASP-NET\Api C-Sharp ASP-NET\obj\Debug\net9.0\ref\LoginApi.dll
